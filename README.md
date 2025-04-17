@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayu_shhh_" target="blank"><img src="https://img.shields.io/twitter/follow/ayu_shhh_?logo=twitter&style=for-the-badge" alt="ayu_shhh_" /></a> </p>
 
-- 🤝 I’m looking for help with **GSOC 2025**
+- 🤝 I’m looking for help with **Flutter and backend developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
