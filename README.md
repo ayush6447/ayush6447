@@ -1,3 +1,11 @@
+<div align="center">
+
+  <img src="snow.gif" width="100%" />
+
+  
+</div>
+
+---
 <h1 align="center">Hi 👋, I'm Ayush Kumar Singh</h1>
 <h3 align="center">A developer from India</h3>
 
