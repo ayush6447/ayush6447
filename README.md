@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="snow.gif" width="100%" />
+  <img src="git.gif" width="100%" />
 
   <h1 style="color: #a259ff;">Hi there 👋 I'm Ayush Kumar Singh</h1>
 
