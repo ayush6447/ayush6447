@@ -7,8 +7,8 @@
   
 
 </div>
-# 💫 About Me:
-<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about anything<br>⚡ Fun fact am just boring
+💫 About Me:
+<br>🌱 I’m currently learning Machine/Deep Learning<br>💬 Ask me about anything<br>⚡ Fun fact am just boring
 
 
 ## 🌐 Socials:
