@@ -1,7 +1,6 @@
 <div align="center">
 <h2>Hi, I'm Ayush Kumar Singh</h2>
 
-[instagram](https://instagram.com/theydontknowakr) &nbsp;·&nbsp;
 [linkedin](https://www.linkedin.com/in/ayushkumarjsr/) &nbsp;·&nbsp;
 [x](https://x.com/akrverse)
 </div>
@@ -18,9 +17,12 @@ Vision, perceptual hashing). Outside of that, competitive programming and chess.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; dart &nbsp; typescript &nbsp; javascript &nbsp; java &nbsp; react &nbsp; flutter &nbsp; node &nbsp; express &nbsp; mongodb &nbsp; firebase &nbsp; pytorch &nbsp; tensorflow &nbsp; scikit-learn &nbsp; docker &nbsp; git</samp>
+<samp>python &nbsp; dart &nbsp; typescript &nbsp; flutter &nbsp; react &nbsp; node &nbsp; mongodb &nbsp; firebase &nbsp; pytorch &nbsp; docker</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
+
+**Ayuda** &nbsp;·&nbsp; <samp>co-founder</samp><br>
+Building this alongside my degree — more soon.
 
 **[Algorithm Arena V2](https://github.com/ayush6447)** &nbsp;·&nbsp; <samp>react, express, mongodb</samp><br>
 Competitive programming platform. Firebase auth, rate limiting, audit<br>
