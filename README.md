@@ -47,7 +47,18 @@ background, and click-spark effects.
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 </div>
 
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
+Nothing on this page is embedded from a third-party service. The stat<br>
+graphics and the section headings above are drawn by<br>
+[a scheduled action](.github/workflows/stats.yml) straight from the GitHub<br>
+GraphQL and REST APIs, once a day, committing only what changed.
+
+The headings are SVGs because GitHub strips `<style>`/CSS from READMEs —<br>
+an image is the only way to put this page's own typeface on them. The<br>
+typeface is [JetBrains Mono](scripts/fonts), subset per-graphic to just the<br>
+characters it draws and inlined as base64, so each SVG stays self-contained<br>
+and nothing here can rate-limit or go dark.
 
 Language totals in `langs.svg` cover public, non-fork repositories only.<br>
 `year.svg` buckets each day's commit count into a quiet-to-loud ramp:<br>
