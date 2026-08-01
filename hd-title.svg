@@ -3,6 +3,6 @@
     .ti-label { font-family:'JBM-HD',monospace; font-size:30px; font-weight:700; letter-spacing:2px; fill:#a259ff; }
     .ti-sub { font-family:'JBM-HD',monospace; font-size:14px; font-weight:700; letter-spacing:3px; fill:#6e6e80; text-transform:uppercase; }
   </style>
-  <text x="310.0" y="42" text-anchor="middle" class="ti-label">hi, i'm ayush kumar singh</text>
+  <text x="310.0" y="42" text-anchor="middle" class="ti-label">Hi, i'm Ayush Kumar Singh</text>
   <text x="310.0" y="72" text-anchor="middle" class="ti-sub">cse student  ·  ai/ml + flutter  ·  jharkhand, india</text>
 </svg>
