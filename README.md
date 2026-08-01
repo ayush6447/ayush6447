@@ -1,30 +1,64 @@
 <div align="center">
+<h2>Hi, I'm Ayush Kumar Singh</h2>
 
-  <img src="git.gif" width="100%" />
-
-  <h1 style="color: #a259ff;">Hi there 👋 I'm Ayush Kumar Singh</h1>
-
-  
-
+[instagram](https://instagram.com/theydontknowakr) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/ayushkumarjsr/) &nbsp;·&nbsp;
+[x](https://x.com/akrverse)
 </div>
-💫 About Me:
-<br>🌱 I’m currently learning Machine/Deep Learning<br>💬 Ask me about anything<br>⚡ Fun fact am just boring
 
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theydontknowakr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkumarjsr/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/akrverse) 
+> CSE student focused on AI/ML and Flutter, based in Jharkhand, India.<br>
+> Small, sharp tools over big vague ideas.
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayush6447&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayush6447&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush6447&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Co-founder at Ayuda. Right now I'm building<br>
+**Embryogen** — an AI-powered clinical decision support system for IVF embryo<br>
+assessment — and a fake-image detection pipeline (Node/Express, Google Cloud<br>
+Vision, perceptual hashing). Outside of that, competitive programming and chess.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayush6447&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=ayush6447&icon=0&color=1)](https://visitcount.itsvg.in)
+<samp>python &nbsp; dart &nbsp; typescript &nbsp; javascript &nbsp; java &nbsp; react &nbsp; flutter &nbsp; node &nbsp; express &nbsp; mongodb &nbsp; firebase &nbsp; pytorch &nbsp; tensorflow &nbsp; scikit-learn &nbsp; docker &nbsp; git</samp>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="./hd-projects.svg" width="620" alt="projects"/>
+
+**[Algorithm Arena V2](https://github.com/ayush6447)** &nbsp;·&nbsp; <samp>react, express, mongodb</samp><br>
+Competitive programming platform. Firebase auth, rate limiting, audit<br>
+logging on admin actions, username claim onboarding.
+
+**Embryogen** &nbsp;·&nbsp; <samp>python, ml</samp><br>
+Clinical decision support for IVF embryo assessment — model-backed<br>
+scoring to help embryologists compare candidates.
+
+**Fake Image Detection** &nbsp;·&nbsp; <samp>node, cloud vision</samp><br>
+Detects manipulated/AI-generated images using Google Cloud Vision,<br>
+perceptual hashing, and a Next.js review frontend.
+
+**[Portfolio](https://github.com/ayush6447/Portfolio-web)** &nbsp;·&nbsp; <samp>react, tailwind, framer motion</samp><br>
+Personal site with a 3D interactive tech-icon cloud, WebGL particle<br>
+background, and click-spark effects.
+
+<img src="./hd-stats.svg" width="620" alt="stats"/>
+
+<div align="center">
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+</div>
+
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
+
+Nothing on this page is embedded from a third-party service. The stat<br>
+graphics and the section headings above are drawn by<br>
+[a scheduled action](.github/workflows/stats.yml) straight from the GitHub<br>
+GraphQL and REST APIs, once a day, committing only what changed.
+
+The headings are SVGs because GitHub strips `<style>`/CSS from READMEs —<br>
+an image is the only way to put this page's own typeface on them. The<br>
+typeface is [JetBrains Mono](scripts/fonts), subset per-graphic to just the<br>
+characters it draws and inlined as base64, so each SVG stays self-contained<br>
+and nothing here can rate-limit or go dark.
+
+Language totals in `langs.svg` cover public, non-fork repositories only.<br>
+`year.svg` buckets each day's commit count into a quiet-to-loud ramp:<br>
+`:` `+` `#` `@`.
