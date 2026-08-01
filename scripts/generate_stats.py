@@ -23,6 +23,7 @@ GH_USERNAME = os.environ["GH_USERNAME"]
 OUT_DIR = os.path.join(os.path.dirname(__file__), "..")
 
 ACCENT = "#a259ff"
+PALETTE = ["#a259ff", "#59c9ff", "#59ffb0", "#ffcb59", "#ff7a59", "#ff59c8"]
 FG = "#e6e6e6"
 DIM = "#6e6e80"
 BG = "none"
@@ -185,11 +186,12 @@ def render_langs_svg(lang_totals: dict, top_n: int = 6) -> str:
     def column(items, max_val, x_offset, title):
         rows = [f'<text x="{x_offset}" y="18" class="lg-title">{title}</text>']
         y = 40
-        for lang, (b, r) in items:
+        for i, (lang, (b, r)) in enumerate(items):
             val = b if title == "by bytes" else r
             w = max(4, (val / max_val) * bar_max_w)
+            color = PALETTE[i % len(PALETTE)]
             rows.append(f'<text x="{x_offset}" y="{y}" class="lg-lbl">{lang}</text>')
-            rows.append(f'<rect x="{x_offset}" y="{y+6}" width="{w:.1f}" height="6" rx="3" class="lg-bar"/>')
+            rows.append(f'<rect x="{x_offset}" y="{y+6}" width="{w:.1f}" height="6" rx="3" fill="{color}" opacity="0.85"/>')
             y += 24
         return "\n".join(rows)
 
@@ -200,7 +202,6 @@ def render_langs_svg(lang_totals: dict, top_n: int = 6) -> str:
   <style>{css}
     .lg-title {{ font-family:'{FONT_FAMILY}',monospace; font-size:13px; letter-spacing:2px; fill:{DIM}; text-transform:uppercase; }}
     .lg-lbl {{ font-family:'{FONT_FAMILY}',monospace; font-size:13px; fill:{FG}; }}
-    .lg-bar {{ fill:{ACCENT}; opacity:0.8; }}
   </style>
   {left}
   {right}
