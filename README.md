@@ -23,9 +23,6 @@ Vision, perceptual hashing). Outside of that, competitive programming and chess.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**Ayuda** &nbsp;·&nbsp; <samp>co-founder</samp><br>
-Building this alongside my degree — more soon.
-
 **[Algorithm Arena V2](https://github.com/ayush6447)** &nbsp;·&nbsp; <samp>react, express, mongodb</samp><br>
 Competitive programming platform. Firebase auth, rate limiting, audit<br>
 logging on admin actions, username claim onboarding.
@@ -50,3 +47,8 @@ background, and click-spark effects.
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 </div>
 
+
+
+Language totals in `langs.svg` cover public, non-fork repositories only.<br>
+`year.svg` buckets each day's commit count into a quiet-to-loud ramp:<br>
+`:` `+` `#` `@`.
