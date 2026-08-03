@@ -17,7 +17,6 @@ HEADINGS = {
     "hd-stack": "stack",
     "hd-projects": "projects",
     "hd-stats": "stats",
-    "hd-about-this-page": "about this page",
 }
 
 TITLE_TEXT = "hi, i'm ayush kumar singh"
