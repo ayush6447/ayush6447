@@ -3,41 +3,42 @@
 
 <img src="./hd-title.svg" width="500" alt="Hi, I'm Ayush Kumar Singh"/>
 
+[website](https://akrverse.vercel.app) &nbsp;·&nbsp;
 [linkedin](https://www.linkedin.com/in/ayushkumarjsr/) &nbsp;·&nbsp;
 [x](https://x.com/akrverse)
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> CSE student focused on AI/ML and Flutter, based in Jharkhand, India.<br>
+> AI/ML & Flutter developer, based in Jharkhand, India.<br>
 > Small, sharp tools over big vague ideas.
 
-Co-founder at Ayuda. Right now I'm building<br>
-**Embryogen** — an AI-powered clinical decision support system for IVF embryo<br>
-assessment — and a fake-image detection pipeline (Node/Express, Google Cloud<br>
-Vision, perceptual hashing). Outside of that, competitive programming and chess.
+Co-founder at Ayuda. I build real-time AI systems, full-stack apps, and<br>
+Web3 integrations — most recently a title-integrity compliance system with<br>
+Ethereum smart contracts, and a real-time sign-language recognition platform.<br>
+Zonal-level chess player.
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
-<samp>python &nbsp; dart &nbsp; typescript &nbsp; flutter &nbsp; react &nbsp; node &nbsp; mongodb &nbsp; firebase &nbsp; pytorch &nbsp; docker</samp>
+<samp>python &nbsp; java &nbsp; javascript &nbsp; dart &nbsp; flutter &nbsp; react &nbsp; django &nbsp; next.js &nbsp; tensorflow &nbsp; pytorch &nbsp; mysql &nbsp; mongodb &nbsp; git</samp>
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[Algorithm Arena V2](https://github.com/ayush6447)** &nbsp;·&nbsp; <samp>react, express, mongodb</samp><br>
-Competitive programming platform. Firebase auth, rate limiting, audit<br>
-logging on admin actions, username claim onboarding.
+**Title Integrity System** &nbsp;·&nbsp; <samp>python, blockchain</samp><br>
+AI + blockchain compliance system for 160K+ press titles — hybrid matching<br>
+(rules, RapidFuzz, phonetic, embeddings + FAISS), sub-2s semantic search,<br>
+Ethereum smart contracts for transparency.
 
-**Embryogen** &nbsp;·&nbsp; <samp>python, ml</samp><br>
-Clinical decision support for IVF embryo assessment — model-backed<br>
-scoring to help embryologists compare candidates.
+**Vox** &nbsp;·&nbsp; <samp>python, mediapipe, lstm</samp><br>
+Real-time dual-hand sign language recognition. 94% accuracy, ~150ms<br>
+latency, gesture-to-text/speech conversion.
 
-**Fake Image Detection** &nbsp;·&nbsp; <samp>node, cloud vision</samp><br>
-Detects manipulated/AI-generated images using Google Cloud Vision,<br>
-perceptual hashing, and a Next.js review frontend.
+**EmbryoGen** &nbsp;·&nbsp; <samp>python, cnn</samp><br>
+CNN-based embryo classification model with visualization support for<br>
+IVF assessment.
 
-**[Portfolio](https://github.com/ayush6447/Portfolio-web)** &nbsp;·&nbsp; <samp>react, tailwind, framer motion</samp><br>
-Personal site with a 3D interactive tech-icon cloud, WebGL particle<br>
-background, and click-spark effects.
+**HydroSenseAI** &nbsp;·&nbsp; <samp>python, xgboost, lstm</samp><br>
+Smart hydroponics — XGBoost and LSTM models for prediction and monitoring.
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
@@ -46,20 +47,3 @@ background, and click-spark effects.
 <img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 <img src="./year.svg" width="620" alt="The last year, one character per day"/>
 </div>
-
-<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
-
-Nothing on this page is embedded from a third-party service. The stat<br>
-graphics and the section headings above are drawn by<br>
-[a scheduled action](.github/workflows/stats.yml) straight from the GitHub<br>
-GraphQL and REST APIs, once a day, committing only what changed.
-
-The headings are SVGs because GitHub strips `<style>`/CSS from READMEs —<br>
-an image is the only way to put this page's own typeface on them. The<br>
-typeface is [JetBrains Mono](scripts/fonts), subset per-graphic to just the<br>
-characters it draws and inlined as base64, so each SVG stays self-contained<br>
-and nothing here can rate-limit or go dark.
-
-Language totals in `langs.svg` cover public, non-fork repositories only.<br>
-`year.svg` buckets each day's commit count into a quiet-to-loud ramp:<br>
-`:` `+` `#` `@`.
