@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./snow.gif" width="100%" alt="" />
+<img src="./web.gif" width="100%" alt="" />
 
 <img src="./hd-title.svg" width="500" alt="Hi, I'm Ayush Kumar Singh"/>
 
