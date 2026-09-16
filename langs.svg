@@ -15,7 +15,7 @@
 <text x="0" y="136" class="lg-lbl">Jupyter Notebook</text>
 <rect x="0" y="142" width="34.7" height="6" rx="3" fill="#ff7a59" opacity="0.85"/>
 <text x="0" y="160" class="lg-lbl">HTML</text>
-<rect x="0" y="166" width="28.5" height="6" rx="3" fill="#ff59c8" opacity="0.85"/>
+<rect x="0" y="166" width="28.7" height="6" rx="3" fill="#ff59c8" opacity="0.85"/>
   <text x="320" y="18" class="lg-title">by repo</text>
 <text x="320" y="40" class="lg-lbl">HTML</text>
 <rect x="320" y="46" width="230.0" height="6" rx="3" fill="#a259ff" opacity="0.85"/>
