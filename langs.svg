@@ -7,7 +7,7 @@
 <text x="0" y="40" class="lg-lbl">TypeScript</text>
 <rect x="0" y="46" width="230.0" height="6" rx="3" fill="#a259ff" opacity="0.85"/>
 <text x="0" y="64" class="lg-lbl">JavaScript</text>
-<rect x="0" y="70" width="74.3" height="6" rx="3" fill="#59c9ff" opacity="0.85"/>
+<rect x="0" y="70" width="74.2" height="6" rx="3" fill="#59c9ff" opacity="0.85"/>
 <text x="0" y="88" class="lg-lbl">CSS</text>
 <rect x="0" y="94" width="49.7" height="6" rx="3" fill="#59ffb0" opacity="0.85"/>
 <text x="0" y="112" class="lg-lbl">Dart</text>
