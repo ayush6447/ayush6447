@@ -9,7 +9,7 @@
 <text x="0" y="64" class="lg-lbl">JavaScript</text>
 <rect x="0" y="70" width="74.1" height="6" rx="3" fill="#59c9ff" opacity="0.85"/>
 <text x="0" y="88" class="lg-lbl">Dart</text>
-<rect x="0" y="94" width="51.1" height="6" rx="3" fill="#59ffb0" opacity="0.85"/>
+<rect x="0" y="94" width="62.9" height="6" rx="3" fill="#59ffb0" opacity="0.85"/>
 <text x="0" y="112" class="lg-lbl">CSS</text>
 <rect x="0" y="118" width="49.7" height="6" rx="3" fill="#ffcb59" opacity="0.85"/>
 <text x="0" y="136" class="lg-lbl">Jupyter Notebook</text>
